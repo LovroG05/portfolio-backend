@@ -139,4 +139,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_COOKIE_DOMAIN = "api.perchperkins.ml"
+CSRF_COOKIE_DOMAIN = "https://api.perchperkins.ml"
